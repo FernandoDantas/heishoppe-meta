@@ -1,0 +1,6 @@
+[submodule "microsservices/heishoppe-ordering"]
+	path = microsservices/heishoppe-ordering
+	url = https://github.com/FernandoDantas/heishoppe-ordering.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/FernandoDantas/heishoppe-docs.git
